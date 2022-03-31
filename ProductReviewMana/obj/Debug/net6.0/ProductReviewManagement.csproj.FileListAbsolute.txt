@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.exe
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.deps.json
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.dll
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.pdb
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.dll
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\refint\ProductReviewManagement.dll
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.pdb
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 35\ProductReviewManagement\obj\Debug\net6.0\ref\ProductReviewManagement.dll
